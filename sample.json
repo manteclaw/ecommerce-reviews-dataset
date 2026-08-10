@@ -1,0 +1,222 @@
+[
+  {
+    "review_id": "REV-00001",
+    "product_id": "PROD-9531",
+    "product_category": "Books",
+    "review_text": "Fantastic build quality and performance. Worth every penny.",
+    "rating": 5,
+    "verified_purchase": 1,
+    "sentiment": "Positive",
+    "helpful_votes": 39,
+    "review_date": "2026-06-05"
+  },
+  {
+    "review_id": "REV-00002",
+    "product_id": "PROD-6672",
+    "product_category": "Electronics",
+    "review_text": "Average product. Met expectations but did not exceed them.",
+    "rating": 3,
+    "verified_purchase": 1,
+    "sentiment": "Neutral",
+    "helpful_votes": 32,
+    "review_date": "2026-07-22"
+  },
+  {
+    "review_id": "REV-00003",
+    "product_id": "PROD-1778",
+    "product_category": "Sports",
+    "review_text": "Absolutely love this product! Exceeded my expectations in every way.",
+    "rating": 5,
+    "verified_purchase": 1,
+    "sentiment": "Positive",
+    "helpful_votes": 46,
+    "review_date": "2026-06-27"
+  },
+  {
+    "review_id": "REV-00004",
+    "product_id": "PROD-6701",
+    "product_category": "Sports",
+    "review_text": "Absolutely love this product! Exceeded my expectations in every way.",
+    "rating": 5,
+    "verified_purchase": 1,
+    "sentiment": "Positive",
+    "helpful_votes": 46,
+    "review_date": "2026-06-19"
+  },
+  {
+    "review_id": "REV-00005",
+    "product_id": "PROD-1731",
+    "product_category": "Home and Kitchen",
+    "review_text": "Great quality for the price. Would definitely recommend to friends.",
+    "rating": 5,
+    "verified_purchase": 1,
+    "sentiment": "Positive",
+    "helpful_votes": 42,
+    "review_date": "2026-06-17"
+  },
+  {
+    "review_id": "REV-00006",
+    "product_id": "PROD-6137",
+    "product_category": "Home and Kitchen",
+    "review_text": "Great quality for the price. Would definitely recommend to friends.",
+    "rating": 4,
+    "verified_purchase": 0,
+    "sentiment": "Positive",
+    "helpful_votes": 24,
+    "review_date": "2026-06-08"
+  },
+  {
+    "review_id": "REV-00007",
+    "product_id": "PROD-2614",
+    "product_category": "Books",
+    "review_text": "Fantastic build quality and performance. Worth every penny.",
+    "rating": 5,
+    "verified_purchase": 1,
+    "sentiment": "Positive",
+    "helpful_votes": 10,
+    "review_date": "2026-07-17"
+  },
+  {
+    "review_id": "REV-00008",
+    "product_id": "PROD-4227",
+    "product_category": "Home and Kitchen",
+    "review_text": "Regret this purchase. Save your money and look elsewhere.",
+    "rating": 2,
+    "verified_purchase": 1,
+    "sentiment": "Negative",
+    "helpful_votes": 46,
+    "review_date": "2026-07-23"
+  },
+  {
+    "review_id": "REV-00009",
+    "product_id": "PROD-2408",
+    "product_category": "Automotive",
+    "review_text": "Great quality for the price. Would definitely recommend to friends.",
+    "rating": 5,
+    "verified_purchase": 1,
+    "sentiment": "Positive",
+    "helpful_votes": 38,
+    "review_date": "2026-06-02"
+  },
+  {
+    "review_id": "REV-00010",
+    "product_id": "PROD-8964",
+    "product_category": "Beauty",
+    "review_text": "This has become an essential part of my daily routine. Highly recommended!",
+    "rating": 5,
+    "verified_purchase": 0,
+    "sentiment": "Positive",
+    "helpful_votes": 2,
+    "review_date": "2026-06-03"
+  },
+  {
+    "review_id": "REV-00011",
+    "product_id": "PROD-2633",
+    "product_category": "Electronics",
+    "review_text": "This has become an essential part of my daily routine. Highly recommended!",
+    "rating": 4,
+    "verified_purchase": 1,
+    "sentiment": "Positive",
+    "helpful_votes": 29,
+    "review_date": "2026-06-15"
+  },
+  {
+    "review_id": "REV-00012",
+    "product_id": "PROD-1451",
+    "product_category": "Toys",
+    "review_text": "Absolutely love this product! Exceeded my expectations in every way.",
+    "rating": 4,
+    "verified_purchase": 0,
+    "sentiment": "Positive",
+    "helpful_votes": 29,
+    "review_date": "2026-06-01"
+  },
+  {
+    "review_id": "REV-00013",
+    "product_id": "PROD-2318",
+    "product_category": "Sports",
+    "review_text": "Fast shipping and exactly as described. Very satisfied with my purchase.",
+    "rating": 4,
+    "verified_purchase": 1,
+    "sentiment": "Positive",
+    "helpful_votes": 23,
+    "review_date": "2026-07-24"
+  },
+  {
+    "review_id": "REV-00014",
+    "product_id": "PROD-6544",
+    "product_category": "Beauty",
+    "review_text": "Disappointed with the quality. Expected much better for this price.",
+    "rating": 1,
+    "verified_purchase": 1,
+    "sentiment": "Negative",
+    "helpful_votes": 29,
+    "review_date": "2026-07-25"
+  },
+  {
+    "review_id": "REV-00015",
+    "product_id": "PROD-2905",
+    "product_category": "Beauty",
+    "review_text": "Great quality for the price. Would definitely recommend to friends.",
+    "rating": 4,
+    "verified_purchase": 1,
+    "sentiment": "Positive",
+    "helpful_votes": 15,
+    "review_date": "2026-07-16"
+  },
+  {
+    "review_id": "REV-00016",
+    "product_id": "PROD-7253",
+    "product_category": "Automotive",
+    "review_text": "Fantastic build quality and performance. Worth every penny.",
+    "rating": 4,
+    "verified_purchase": 0,
+    "sentiment": "Positive",
+    "helpful_votes": 1,
+    "review_date": "2026-07-18"
+  },
+  {
+    "review_id": "REV-00017",
+    "product_id": "PROD-9920",
+    "product_category": "Automotive",
+    "review_text": "Fast shipping and exactly as described. Very satisfied with my purchase.",
+    "rating": 4,
+    "verified_purchase": 1,
+    "sentiment": "Positive",
+    "helpful_votes": 2,
+    "review_date": "2026-06-22"
+  },
+  {
+    "review_id": "REV-00018",
+    "product_id": "PROD-5729",
+    "product_category": "Beauty",
+    "review_text": "Disappointed with the quality. Expected much better for this price.",
+    "rating": 2,
+    "verified_purchase": 1,
+    "sentiment": "Negative",
+    "helpful_votes": 50,
+    "review_date": "2026-07-21"
+  },
+  {
+    "review_id": "REV-00019",
+    "product_id": "PROD-4578",
+    "product_category": "Electronics",
+    "review_text": "Decent quality for the price. Some pros and some cons.",
+    "rating": 3,
+    "verified_purchase": 1,
+    "sentiment": "Neutral",
+    "helpful_votes": 7,
+    "review_date": "2026-06-10"
+  },
+  {
+    "review_id": "REV-00020",
+    "product_id": "PROD-5885",
+    "product_category": "Clothing",
+    "review_text": "It's okay. Nothing special but does the job.",
+    "rating": 3,
+    "verified_purchase": 1,
+    "sentiment": "Neutral",
+    "helpful_votes": 18,
+    "review_date": "2026-08-05"
+  }
+]
