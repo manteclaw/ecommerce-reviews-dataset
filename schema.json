@@ -1,0 +1,53 @@
+{
+  "dataset_name": "Ecommerce Product Reviews",
+  "version": "1.0.0",
+  "created": "2026-08-10T00:06:27.777349Z",
+  "total_records": 3000,
+  "fields": [
+    {
+      "name": "review_id",
+      "type": "str",
+      "example": "REV-00001"
+    },
+    {
+      "name": "product_id",
+      "type": "str",
+      "example": "PROD-9531"
+    },
+    {
+      "name": "product_category",
+      "type": "str",
+      "example": "Books"
+    },
+    {
+      "name": "review_text",
+      "type": "str",
+      "example": "Fantastic build quality and performance. Worth every penny."
+    },
+    {
+      "name": "rating",
+      "type": "int",
+      "example": 5
+    },
+    {
+      "name": "verified_purchase",
+      "type": "int",
+      "example": 1
+    },
+    {
+      "name": "sentiment",
+      "type": "str",
+      "example": "Positive"
+    },
+    {
+      "name": "helpful_votes",
+      "type": "int",
+      "example": 39
+    },
+    {
+      "name": "review_date",
+      "type": "str",
+      "example": "2026-06-05"
+    }
+  ]
+}
