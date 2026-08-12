@@ -1,7 +1,7 @@
 {
   "dataset_name": "Ecommerce Product Reviews",
   "version": "1.0.0",
-  "created": "2026-08-10T00:06:27.777349Z",
+  "created": "2026-08-12T00:05:51.589254Z",
   "total_records": 3000,
   "fields": [
     {
@@ -12,17 +12,17 @@
     {
       "name": "product_id",
       "type": "str",
-      "example": "PROD-9531"
+      "example": "PROD-2866"
     },
     {
       "name": "product_category",
       "type": "str",
-      "example": "Books"
+      "example": "Electronics"
     },
     {
       "name": "review_text",
       "type": "str",
-      "example": "Fantastic build quality and performance. Worth every penny."
+      "example": "Fast shipping and exactly as described. Very satisfied with my purchase."
     },
     {
       "name": "rating",
@@ -32,7 +32,7 @@
     {
       "name": "verified_purchase",
       "type": "int",
-      "example": 1
+      "example": 0
     },
     {
       "name": "sentiment",
@@ -42,12 +42,12 @@
     {
       "name": "helpful_votes",
       "type": "int",
-      "example": 39
+      "example": 32
     },
     {
       "name": "review_date",
       "type": "str",
-      "example": "2026-06-05"
+      "example": "2026-07-28"
     }
   ]
 }
